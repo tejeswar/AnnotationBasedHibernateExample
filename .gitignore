@@ -1,0 +1,5 @@
+.metadata/
+.recommenders/
+RemoteSystemsTempFiles/
+HibernateExample/.settings/
+HibernateExample/target
